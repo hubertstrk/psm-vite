@@ -1,9 +1,9 @@
 <script setup lang="ts">
-import HelloWorld from './components/HelloWorld.vue'
+import Protectants from './components/Protectants.vue'
 </script>
 
 <template>
-  <HelloWorld />
+  <Protectants />
 </template>
 
 <style>

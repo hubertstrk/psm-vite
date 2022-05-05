@@ -13,7 +13,13 @@ interface Protectant {
   zul_erstmalig_am: Date
 }
 
+interface HazardSymbol {
+  code: string
+  text: string
+}
+
 export type {
   ProtectantResult,
-  Protectant
+  Protectant,
+  HazardSymbol
 }
